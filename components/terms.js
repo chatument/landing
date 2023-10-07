@@ -59,28 +59,28 @@ const Terms = () => {
         You agree not to engage in any of the following prohibited activities while using the Service:
       </p>
 
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.1 Violating any applicable law or regulation.
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.2 Interfering with or disrupting the functionality of the Service or any connected systems
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.3 Using the Service for any unlawful, harmful, or fraudulent purpose
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.4 Attempting to gain unauthorized access to any user accounts, computer systems, or networks
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.5 Collecting or harvesting any personally identifiable information from other users of the Service without their consent
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.6 Uploading, transmitting, or distributing any content that is defamatory, obscene, or infringing upon any intellectual property rights of others
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-1 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.7 Impersonating any person or entity or falsely stating or otherwise misrepresenting your affiliation with a person or entity
       </h6>
-      <h6 className="pb-1 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
+      <h6 className="pb-4 text-left py-1 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.8 Engaging in any other conduct that restricts or inhibits any other user from using or enjoying the Service.
       </h6>
 
