@@ -12,7 +12,7 @@ const Hero = () => {
               Get value from your documentation
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Stop wasting time wondering around tons of documentation of your
+              Stop wasting time wandering around tons of documentation of your
               organization, find the information you need immediately just as if
               you were talking with a co-worker.
               {/* Say goodbye to the hassle of navigating through endless documentation in your organization. Discover the information you need instantly, as simple as having a chat with a colleague! */}
