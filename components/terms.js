@@ -15,7 +15,7 @@ const Terms = () => {
         By accessing or using the Service, you agree to these Terms. If you do not agree with any part of these Terms, you may not access or use the Service.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         1. Use of the Service
       </h2>
 
@@ -49,7 +49,7 @@ const Terms = () => {
         additional terms and conditions, and you are responsible for complying with such terms and conditions.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         2. Acceptable Use
       </h2>
 
@@ -63,30 +63,30 @@ const Terms = () => {
         You agree not to engage in any of the following prohibited activities while using the Service:
       </p>
 
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.1 Violating any applicable law or regulation.
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.2 Interfering with or disrupting the functionality of the Service or any connected systems
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.3 Using the Service for any unlawful, harmful, or fraudulent purpose
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.4 Attempting to gain unauthorized access to any user accounts, computer systems, or networks
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.5 Collecting or harvesting any personally identifiable information from other users of the Service without their consent
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.6 Uploading, transmitting, or distributing any content that is defamatory, obscene, or infringing upon any intellectual property rights of others
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.7 Impersonating any person or entity or falsely stating or otherwise misrepresenting your affiliation with a person or entity
-      </p>
-      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </h6>
+      <h6 className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         2.1.8 Engaging in any other conduct that restricts or inhibits any other user from using or enjoying the Service.
-      </p>
+      </h6>
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.2 Compliance with OpenAI's ChatGPT Usage Policies
@@ -97,7 +97,7 @@ const Terms = () => {
         including but not limited to the prohibition of generating illegal content, spam, or using the Service to manipulate or deceive others.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         3. Intellectual Property
       </h2>
 
@@ -123,7 +123,7 @@ const Terms = () => {
         your User Content, solely for the purpose of providing and improving the Service.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         4. Privacy
       </h2>
 
@@ -134,7 +134,7 @@ const Terms = () => {
         By using the Service, you consent to the collection, use, and disclosure of your personal information as outlined in the Privacy Policy.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         5. Termination
       </h2>
 
@@ -146,7 +146,7 @@ const Terms = () => {
         to use the Service will cease immediately.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         6. Disclaimer of Warranties
       </h2>
 
@@ -158,7 +158,7 @@ const Terms = () => {
         COMPLETENESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         7. Limitation of Liability
       </h2>
 
@@ -171,7 +171,7 @@ const Terms = () => {
         NEGLIGENCE, STRICT LIABILITY, OR OTHER LEGAL THEORY, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         8. Indemnification
       </h2>
 
@@ -183,7 +183,7 @@ const Terms = () => {
         arising out of or in any way connected with your use or misuse of the Service or violation of these Terms.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         9. Governing Law and Jurisdiction
       </h2>
 
@@ -194,7 +194,7 @@ const Terms = () => {
         out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts in Colombia.
       </p>
 
-      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         10. Miscellaneous
       </h2>
 
