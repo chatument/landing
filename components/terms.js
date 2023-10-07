@@ -21,7 +21,7 @@ const Terms = () => {
 
       <hr />
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1.1 Eligibility
       </h4>
 
