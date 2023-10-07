@@ -19,9 +19,9 @@ const Terms = () => {
         1. Use of the Service
       </h2>
 
-      <hr />
+      <p />
 
-      <h4 className="text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1.1 Eligibility
       </h4>
 
@@ -53,7 +53,7 @@ const Terms = () => {
         2. Acceptable Use
       </h2>
 
-      <hr />
+      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1 Prohibited Conduct
@@ -101,7 +101,7 @@ const Terms = () => {
         3. Intellectual Property
       </h2>
 
-      <hr />
+      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         3.1 Company's Intellectual Property
@@ -118,7 +118,7 @@ const Terms = () => {
       </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
-        You retain ownership of any content you upload, transmit, or store through the Service ("User Content"). 
+        You retain ownership of any content you upload, transmit, or store tpough the Service ("User Content"). 
         By posting User Content, you grant the Company a worldwide, royalty-free license to use 
         your User Content, solely for the purpose of providing and improving the Service.
       </p>
@@ -127,10 +127,10 @@ const Terms = () => {
         4. Privacy
       </h2>
 
-      <hr />
+      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
-        The Company's Privacy Policy governs the collection, use, and disclosure of personal information through the Service. 
+        The Company's Privacy Policy governs the collection, use, and disclosure of personal information tpough the Service. 
         By using the Service, you consent to the collection, use, and disclosure of your personal information as outlined in the Privacy Policy.
       </p>
 
@@ -138,7 +138,7 @@ const Terms = () => {
         5. Termination
       </h2>
 
-      <hr />
+      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         The Company may, in its sole discretion, suspend or terminate your access to the Service at any time for any reason, 
@@ -150,7 +150,7 @@ const Terms = () => {
         6. Disclaimer of Warranties
       </h2>
 
-      <hr />
+      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         THE SERVICE IS PROVIDED ON AN \"AS-IS\" AND \"AS-AVAILABLE\" BASIS. THE COMPANY DOES NOT MAKE ANY REPRESENTATIONS 
@@ -162,7 +162,7 @@ const Terms = () => {
         7. Limitation of Liability
       </h2>
 
-      <hr />
+      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY AND ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, 
@@ -175,7 +175,7 @@ const Terms = () => {
         8. Indemnification
       </h2>
 
-      <hr />
+      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         You agree to indemnify, defend, and hold the Company and its directors, officers, employees, agents, and affiliates 
@@ -187,7 +187,7 @@ const Terms = () => {
         9. Governing Law and Jurisdiction
       </h2>
 
-      <hr />
+      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         These Terms shall be governed by and construed in accordance with the laws of Colombia. Any dispute arising 
@@ -198,7 +198,7 @@ const Terms = () => {
         10. Miscellaneous
       </h2>
 
-      <hr />
+      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         10.1 Entire Agreement
