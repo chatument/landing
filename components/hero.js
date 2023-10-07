@@ -1,6 +1,6 @@
-import Image from "next/image";
-import Container from "./container";
-import heroImg from "../public/img/hero.png";
+import Image from 'next/image';
+import Container from './container';
+import heroImg from '../public/img/hero.png';
 
 const Hero = () => {
   return (
@@ -12,20 +12,11 @@ const Hero = () => {
               Get value from your documentation
             </h1>
             <p className="py-5 text-xl leading-normal text-gray-500 lg:text-xl xl:text-2xl dark:text-gray-300">
-              Stop wasting time wondering around tons of documentation of your organization, 
-              find the information you need immediately just as if you were talking with a co-worker.
+              Stop wasting time wondering around tons of documentation of your
+              organization, find the information you need immediately just as if
+              you were talking with a co-worker.
               {/* Say goodbye to the hassle of navigating through endless documentation in your organization. Discover the information you need instantly, as simple as having a chat with a colleague! */}
             </p>
-
-            <div className="flex flex-col items-start space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row">
-              <a
-                href="https://web3templates.com/templates/nextly-landing-page-template-for-startups"
-                target="_blank"
-                rel="noopener"
-                className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
-                Get started
-              </a>
-            </div>
           </div>
         </div>
         <div className="flex items-center justify-center w-full lg:w-1/2">
@@ -34,7 +25,7 @@ const Hero = () => {
               src={heroImg}
               width="616"
               height="617"
-              className={"object-cover"}
+              className={'object-cover'}
               alt="Hero Illustration"
               loading="eager"
               placeholder="blur"
@@ -44,6 +35,6 @@ const Hero = () => {
       </Container>
     </>
   );
-}
+};
 
 export default Hero;

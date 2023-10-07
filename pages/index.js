@@ -29,7 +29,6 @@ const Home = () => {
         to get value from it efficiently.
       </SectionTitle>
       <Benefits data={benefitOne} />
-      <Benefits imgPos="right" data={benefitTwo} />
       <Footer />
     </>
   );
