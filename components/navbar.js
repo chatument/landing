@@ -28,7 +28,7 @@ const Navbar = () => {
                         alt="Logo"
                         width="32"
                         height="32"
-                        className="w-8"
+                        className="w-8 rounded-lg"
                       />
                     </span>
                     <span>Chatument</span>
