@@ -3,9 +3,9 @@ import Container from './container';
 const Terms = () => {
   return (
     <Container>
-      <h2 className="mt-3 pb-2 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white">
+      <h1 className="mt-3 pb-2 text-3xl font-bold leading-snug tracking-tight text-gray-800 lg:leading-tight lg:text-4xl dark:text-white">
         Terms of Service
-      </h2>
+      </h1>
 
       <hr />
 
@@ -15,33 +15,33 @@ const Terms = () => {
         By accessing or using the Service, you agree to these Terms. If you do not agree with any part of these Terms, you may not access or use the Service.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1. Use of the Service
-      </h4>
+      </h2>
 
       <hr />
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1.1 Eligibility
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         You must be at least 18 years old and have the legal capacity to enter into a binding agreement to use the Service. 
         By using the Service, you represent and warrant that you meet these eligibility requirements.
       </p>
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1.2 License to Use the Service
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         Subject to your compliance with these Terms, the Company grants you a limited, non-exclusive, non-transferable, 
         and revocable license to access and use the Service for your personal or internal business purposes.
       </p>
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1.3 Integration with Slack and Notion
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         Chatument integrates with Slack and Notion to facilitate communication and access to organization documentation. 
@@ -49,63 +49,63 @@ const Terms = () => {
         additional terms and conditions, and you are responsible for complying with such terms and conditions.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2. Acceptable Use
-      </h4>
+      </h2>
 
       <hr />
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1 Prohibited Conduct
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         You agree not to engage in any of the following prohibited activities while using the Service:
       </p>
 
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.1 Violating any applicable law or regulation.
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.2 Interfering with or disrupting the functionality of the Service or any connected systems
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.3 Using the Service for any unlawful, harmful, or fraudulent purpose
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.4 Attempting to gain unauthorized access to any user accounts, computer systems, or networks
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.5 Collecting or harvesting any personally identifiable information from other users of the Service without their consent
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.6 Uploading, transmitting, or distributing any content that is defamatory, obscene, or infringing upon any intellectual property rights of others
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.7 Impersonating any person or entity or falsely stating or otherwise misrepresenting your affiliation with a person or entity
-      </h8>
-      <h8 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      </p>
+      <p className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1.8 Engaging in any other conduct that restricts or inhibits any other user from using or enjoying the Service.
-      </h8>
+      </p>
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.2 Compliance with OpenAI's ChatGPT Usage Policies
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         Chatument is powered by OpenAI's ChatGPT and is subject to OpenAI's Usage Policies. By using the Service, you agree to comply with OpenAI's Usage Policies, 
         including but not limited to the prohibition of generating illegal content, spam, or using the Service to manipulate or deceive others.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         3. Intellectual Property
-      </h4>
+      </h2>
 
       <hr />
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         3.1 Company's Intellectual Property
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         The Service and all related materials, including but not limited to software, text, images, videos, graphics, and trademarks, 
@@ -113,9 +113,9 @@ const Terms = () => {
         of the Service does not grant you any ownership or rights to the Company's intellectual property.
       </p>
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         3.2 User Content
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         You retain ownership of any content you upload, transmit, or store through the Service ("User Content"). 
@@ -123,9 +123,9 @@ const Terms = () => {
         your User Content, solely for the purpose of providing and improving the Service.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         4. Privacy
-      </h4>
+      </h2>
 
       <hr />
 
@@ -134,9 +134,9 @@ const Terms = () => {
         By using the Service, you consent to the collection, use, and disclosure of your personal information as outlined in the Privacy Policy.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         5. Termination
-      </h4>
+      </h2>
 
       <hr />
 
@@ -146,9 +146,9 @@ const Terms = () => {
         to use the Service will cease immediately.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         6. Disclaimer of Warranties
-      </h4>
+      </h2>
 
       <hr />
 
@@ -158,9 +158,9 @@ const Terms = () => {
         COMPLETENESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         7. Limitation of Liability
-      </h4>
+      </h2>
 
       <hr />
 
@@ -171,9 +171,9 @@ const Terms = () => {
         NEGLIGENCE, STRICT LIABILITY, OR OTHER LEGAL THEORY, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         8. Indemnification
-      </h4>
+      </h2>
 
       <hr />
 
@@ -183,9 +183,9 @@ const Terms = () => {
         arising out of or in any way connected with your use or misuse of the Service or violation of these Terms.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         9. Governing Law and Jurisdiction
-      </h4>
+      </h2>
 
       <hr />
 
@@ -194,33 +194,33 @@ const Terms = () => {
         out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts in Colombia.
       </p>
 
-      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h2 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         10. Miscellaneous
-      </h4>
+      </h2>
 
       <hr />
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         10.1 Entire Agreement
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         These Terms constitute the entire agreement between you and the Company concerning the Service and supersede any prior 
         or contemporaneous agreements, proposals, or representations, whether oral or written.
       </p>
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         10.2 Severability
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         If any provision of these Terms is deemed invalid or unenforceable for any reason, that provision shall be deemed 
         severable and shall not affect the validity or enforceability of the remaining provisions.
       </p>
 
-      <h6 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
+      <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         10.3 Waiver
-      </h6>
+      </h4>
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         If any provision of these Terms is deemed invalid or unenforceable for any reason, that provision shall be deemed 
