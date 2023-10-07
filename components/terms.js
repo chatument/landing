@@ -15,11 +15,9 @@ const Terms = () => {
         By accessing or using the Service, you agree to these Terms. If you do not agree with any part of these Terms, you may not access or use the Service.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         1. Use of the Service
       </h2>
-
-      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         1.1 Eligibility
@@ -49,11 +47,9 @@ const Terms = () => {
         additional terms and conditions, and you are responsible for complying with such terms and conditions.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         2. Acceptable Use
       </h2>
-
-      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         2.1 Prohibited Conduct
@@ -97,11 +93,9 @@ const Terms = () => {
         including but not limited to the prohibition of generating illegal content, spam, or using the Service to manipulate or deceive others.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         3. Intellectual Property
       </h2>
-
-      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         3.1 Company's Intellectual Property
@@ -123,22 +117,18 @@ const Terms = () => {
         your User Content, solely for the purpose of providing and improving the Service.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         4. Privacy
       </h2>
-
-      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         The Company's Privacy Policy governs the collection, use, and disclosure of personal information tpough the Service. 
         By using the Service, you consent to the collection, use, and disclosure of your personal information as outlined in the Privacy Policy.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         5. Termination
       </h2>
-
-      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         The Company may, in its sole discretion, suspend or terminate your access to the Service at any time for any reason, 
@@ -146,11 +136,9 @@ const Terms = () => {
         to use the Service will cease immediately.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         6. Disclaimer of Warranties
       </h2>
-
-      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         THE SERVICE IS PROVIDED ON AN \"AS-IS\" AND \"AS-AVAILABLE\" BASIS. THE COMPANY DOES NOT MAKE ANY REPRESENTATIONS 
@@ -158,11 +146,9 @@ const Terms = () => {
         COMPLETENESS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         7. Limitation of Liability
       </h2>
-
-      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY AND ITS DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, 
@@ -171,11 +157,9 @@ const Terms = () => {
         NEGLIGENCE, STRICT LIABILITY, OR OTHER LEGAL THEORY, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         8. Indemnification
       </h2>
-
-      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         You agree to indemnify, defend, and hold the Company and its directors, officers, employees, agents, and affiliates 
@@ -183,22 +167,18 @@ const Terms = () => {
         arising out of or in any way connected with your use or misuse of the Service or violation of these Terms.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         9. Governing Law and Jurisdiction
       </h2>
-
-      <p />
 
       <p className="pb-6 text-left py-4 text-sm leading-normal text-gray-500 lg:text-sm xl:text-sm dark:text-gray-300">
         These Terms shall be governed by and construed in accordance with the laws of Colombia. Any dispute arising 
         out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts in Colombia.
       </p>
 
-      <h2 className="leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
+      <h2 className="pb-2 leading-snug text-xl tracking-tight text-gray-800 lg:leading-tight lg:text-xl dark:text-white">
         10. Miscellaneous
       </h2>
-
-      <p />
 
       <h4 className="leading-snug text-lg tracking-tight text-gray-800 lg:leading-tight lg:text-lg dark:text-white">
         10.1 Entire Agreement
