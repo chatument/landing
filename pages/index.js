@@ -23,7 +23,7 @@ const Home = () => {
       <Navbar />
       <Hero />
       <SectionTitle title="Introducing Chatument">
-        The next generation tooling for documentation, exploration and value
+        The next generation tooling for documentation exploration and value
         extraction for your organization. No matter the scale of your
         documentation Chatument will enable your collaborators and stakeholders
         to get value from it efficiently.
